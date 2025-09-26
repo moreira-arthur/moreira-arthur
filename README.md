@@ -83,13 +83,6 @@ I'm a passionate Software Developer with a focus on full-stack and backend devel
 
 ---
 
-### 🚀 Experiences
-
--   **CodeLab USP**: Member of the extension group, focusing on **Front-End Web Development**.
--   **Gema**: Participant in the extension group centered on **competitive programming marathons** to enhance programming logic and algorithmic skills.
-
----
-
 ### 🌐 Languages
 
 -   **English**: Advanced (B2)
